@@ -5,7 +5,10 @@ function App() {
   return (
     <div className="App">
       <Banner />
-      <CampoTexto />
+      <CampoTexto label="nome" />
+      <CampoTexto label="cargo" />
+      <CampoTexto label="imagem" />
+      
     </div>
   );
 }
