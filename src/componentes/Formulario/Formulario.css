@@ -10,6 +10,7 @@
 
     max-width: 80%;
     background-color: #F2F2F2;
-    padding: 2.25rem 3.9375rem;
+    padding: 2.25rem 6rem;
     border-radius: 1rem;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
 }
